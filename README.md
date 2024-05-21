@@ -16,7 +16,8 @@ The purpose of this Adventure Works sales analysis portfolio project is to gain 
 8.	 This table contains information about product subcategory including, ProductSubcategoryID, Name and ProductCategoryID.
 9.	Purchasing.ShipMethod. This table contains information about shipping method including ShipMethodID and Name.
     ## Data Schema
-  	![Data_Schema_BI.jpg](https://github.com/joenjam/AdventureWorksPortfolioProject/blob/main/Data_Schema_BI.jpg)
+  	![Data_Schema_BI](https://github.com/joenjam/AdventureWorksPortfolioProject/assets/125267094/26b6e37f-a3b1-45e7-8f1c-3268b6eb140c)
+ 
 
 
 
